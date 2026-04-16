@@ -1,6 +1,6 @@
 # From Tax Residency to Network Residency
 
-A strategic position paper on the tax jurisdictional development path of network societies.
+A strategic position paper on the tax jurisdictional development path of network societies. (draft summary)
 
 ## Thesis
 
@@ -41,7 +41,7 @@ exposed to ordinary domestic tax law in every host jurisdiction. The work of
 moving to later stages - building the institutional, professional, and administrative
 infrastructure that makes negotiation possible - is the present task.
 
-This paper sets out the sequence and the design principles for that work.
+The paper I am writing sets out the sequence and the design principles for that work.
 
 ## Author
 
@@ -53,7 +53,7 @@ Based at Network School, Forest City, Malaysia
 
 ## Status
 
-Working draft. Open to comment and contribution.
+Working draft coming soon. Open to comment and contribution.
 
 ## Licence
 
