@@ -1,6 +1,6 @@
 # From Tax Residency to Network Residency
 
-A strategic position paper on the fiscal development path of network societies.
+A strategic position paper on the tax jurisdictional development path of network societies.
 
 ## Thesis
 
