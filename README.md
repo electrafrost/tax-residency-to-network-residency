@@ -1,6 +1,6 @@
 # From Tax Residency to Network Residency
 
-A strategic position paper on the tax jurisdictional development path of network societies.
+A strategic position paper on the tax jurisdictional development path of network societies, from individual tax compliance to recognised represented collective status.
 
 *Full paper to be published May 2026. This is a summary of the core argument.*
 
