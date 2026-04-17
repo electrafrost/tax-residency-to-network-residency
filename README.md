@@ -1,6 +1,8 @@
 # From Tax Residency to Network Residency
 
-A strategic position paper on the tax jurisdictional development path of network societies. (draft summary)
+A strategic position paper on the tax jurisdictional development path of network societies.
+
+*Full paper to be published May 2026. This is a summary of the core argument.*
 
 ## Thesis
 
@@ -21,9 +23,9 @@ is one path. Status is the real innovation.
 
 ## Position relative to other models
 
-- **Próspera** is territorial governance innovation, zone-bound.
-- **Balaji's public sequence** is territorial first, status later.
-- **This paper** argues status-plus-territory, where territory is optional.
+- Zone models (e.g. Prospera) attach differentiated treatment to a territorial perimeter. They are place-bound.
+- The dominant network state sequence is territorial first, status later: assemble online, acquire land, seek recognition through density.
+- This paper argues status-plus-territory, where territory is optional. The foundation is recognition of a coordinated population as a distinct administrative class.
 
 ## Development sequence
 
@@ -41,19 +43,19 @@ exposed to ordinary domestic tax law in every host jurisdiction. The work of
 moving to later stages - building the institutional, professional, and administrative
 infrastructure that makes negotiation possible - is the present task.
 
-The paper I am writing sets out the sequence and the design principles for that work.
+This paper sets out the sequence and design principles for that work.
 
 ## Author
 
 Electra Frost
-Chartered Tax Adviser (CTA), IPA Feloow, Global Certificate Public Accounting (FIPA, GCPA)
+Chartered Tax Adviser (CTA), Fellow and Global Certified Public Accountant (FIPA GCPA)
 Deputy President, Member Advisory Committee, Institute of Public Accountants Malaysia
 Founder, CREDU Academy and CREDU Platform
 Based at Network School, Forest City, Malaysia
 
 ## Status
 
-Working draft coming soon. Open to comment and contribution.
+Full paper to be published May 2026. Open to comment and contribution.
 
 ## Licence
 
