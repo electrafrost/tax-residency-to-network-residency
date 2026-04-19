@@ -96,5 +96,3 @@ Full profile: [graph.electrafrost.com](https://graph.electrafrost.com)
 Full paper to be published May/June 2026. Open to comment and contribution.
 
 ## Licence
-
-CC BY 4.0
